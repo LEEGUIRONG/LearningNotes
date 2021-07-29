@@ -1,0 +1,1 @@
+This is my learning notes about machine learning, deep learning, nlp and the basic knowledge of computer.
